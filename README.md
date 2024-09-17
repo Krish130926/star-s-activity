@@ -1,16 +1,16 @@
 
-First, I’ll use Pandas to load the simulated data into a DataFrame for analysis.
-  Wait Time Analysis
-  Examine how wait times vary by drink type, preparation method (mobile vs. in-person), and peak hours to identify bottlenecks.
-  Peak Hour Identification
-  Identify peak hours based on the volume of orders and wait times.
-  Revenue Analysis
-  Examine the revenue generated during different times of the day and by drink type to identify high-value periods.
+First, I’ll use Pandas to load the simulated data into a data frame for analysis.
+  
+  
+  
+  Wait Time Analysis: Examine how wait times vary by drink type, preparation method (mobile vs. in-person), and peak hours to identify bottlenecks.
+  Peak Hour Identification: Identify peak hours based on the volume of orders and wait times.
+  Revenue Analysis: Examine the revenue generated during different times of the day and by drink type to identify high-value periods.
 
 
 
 Recommendations for Management
-Based on the analysis, I will provide recommendations that address the long wait times and opportunities for increasing revenue.
+
 
 a) Implement Mobile Order Optimization:
 Finding: Mobile orders generally have shorter wait times. Encouraging more mobile orders can reduce in-store congestion during peak hours.
